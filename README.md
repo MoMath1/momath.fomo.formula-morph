@@ -8,7 +8,7 @@ This virtual exhibit is designed to be controlled using physical input devices (
 
 ## Usage
 
-A precompiled version of FormulaMorph is available for download on the releases page. The software is written in Java and should run on all major operating systems. A local installation of a compatible Java Runtime Environment (JRE) is required. Tests have been performed successfully on Linux (Ubuntu 22.04) with OpenJDK 8 and OpenJDK 21.
+A precompiled version of FormulaMorph is available for download on the releases page. The software is written in Java and should run on all major operating systems. A local installation of a compatible Java Runtime Environment (JRE) is required. Tests have been performed successfully on Linux (Ubuntu 22.04) with [OpenJDK 8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) and OpenJDK 21.
 
 To run FormulaMorph:
 
